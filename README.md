@@ -1,2 +1,3 @@
 # Hello-World
-Just another rep.
+
+Hello there. Getting to know the world of GitHub.
